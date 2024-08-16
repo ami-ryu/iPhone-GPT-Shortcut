@@ -1,0 +1,19 @@
+### iCloud URL
+[Link](https://www.icloud.com/shortcuts/84956529621b449a888723a5d525529c)
+
+### Prompt
+```
+# Extracted Text from Image
+Image Description:
+Provide a brief description of the image here.
+Extracted Text:
+[Insert extracted text here]
+# Summary of Extracted Text
+Provide a concise summary of the extracted text in a few sentences.
+# Translation
+Translate the extracted text:
+If the text is in English or another foreign language: Provide the Korean translation.
+If the text is in Korean: Provide the English translation.
+# Insights and Analysis
+Based on the text extracted from the image, provide a comprehensive summary that captures the essence of the content. Include insights and analysis that delve into themes such as the purpose and meaning of life, human flourishing, and the impact of technology on the future of humanity. Explore how artificial intelligence affects human experiences, and reflect on the role of memes and cultural phenomena in shaping societal perspectives. Discuss the importance of continuous learning and reading, emphasizing how these activities contribute to personal growth and continuous improvement. Offer surprising and insightful perspectives that enrich the understanding of these topics, weaving them into a narrative that provides both depth and clarity.
+```
